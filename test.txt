@@ -1,1 +1,1 @@
-Testing bootdev app integration.
+Testing bootdev app integration. Test passed :)
